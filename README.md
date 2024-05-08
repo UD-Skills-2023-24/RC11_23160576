@@ -2,7 +2,7 @@
 
 OneDrive link: https://liveuclac-my.sharepoint.com/:f:/g/personal/ucbvlul_ucl_ac_uk/ElJ64Aqq059AlM74fHNn3k8Bhn0VawJZ1UB6mLZqEy1P0g
 
-This OneDrive hyperlink contains the code for this assignment and all the files needed to run the code. (including files already on GitHub)
+This OneDrive link contains the code for this assignment and all the files needed to run the code. (including files already on GitHub)
 
 Due to size limitations on GitHub uploads, only .pkl, .json, and some .bin files are present on GitHub.
 
