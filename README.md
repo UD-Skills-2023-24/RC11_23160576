@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YmApcLfC)
 
-OneDrive link: https://liveuclac-my.sharepoint.com/:f:/g/personal/ucbvlul_ucl_ac_uk/ElJ64Aqq059AlM74fHNn3k8Bhn0VawJZ1UB6mLZqEy1P0g?e=bKePcK
+OneDrive link: https://liveuclac-my.sharepoint.com/:f:/g/personal/ucbvlul_ucl_ac_uk/ElJ64Aqq059AlM74fHNn3k8Bhn0VawJZ1UB6mLZqEy1P0g
 
 This OneDrive hyperlink contains the code for this assignment and all the files needed to run the code. (including files already on GitHub)
 
